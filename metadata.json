@@ -1,0 +1,8 @@
+{
+  "name": "Smart Agri Tech 2.0",
+  "description": "An advanced, AI-powered intelligent agriculture platform that empowers farmers with data-driven decisions. It features AI-driven crop and fertilizer recommendations, disease diagnosis, market predictions, a real-time environmental dashboard, and a voice/chat assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
